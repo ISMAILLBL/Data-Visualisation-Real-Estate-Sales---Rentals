@@ -93,10 +93,11 @@ data/
 ## 👨‍💻 Author
 
 **Ismail Boulaich**
-Data / BI Student
+Data / BI 
 
 ---
 
 ## 📄 License
 
 This project is for educational purposes.
+
